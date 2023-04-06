@@ -16,7 +16,7 @@
     port.connect('<Network-name>', '<Network-password>', auto=True)
     
 ```
-</br>
+
 5. Insert the card into the Micro SD card slot underneath the board. 
 </br>
 6. Power on the Pynq-Z2 and verify the boot sequence of LEDs on the board. 
