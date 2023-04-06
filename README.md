@@ -9,7 +9,7 @@
 </br>
 4. Configure WiFi network settings in the boot.py inside the pre-flashed image on SD card.
 </br>
-```
+
 
     from pynq.lib import Wifi
     port = Wifi()
