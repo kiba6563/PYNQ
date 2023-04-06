@@ -8,6 +8,7 @@
 3. Setup a USB WiFi adapter (DWA-131) and plug it into the USB-A port on the Pynq-Z2 board.
 <br>
 4. Configure WiFi network settings in the boot.py inside the pre-flashed image on SD card.
+<br>
 <pre><code class="python">
     from pynq.lib import Wifi
     port = Wifi()
