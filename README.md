@@ -1,9 +1,9 @@
 # Pynq-Z2-LED-program-in-Python
 
 ## Pynq-Z2 WiFi setup:
-1. Download prebuilt bootable image <a href="http://www.pynq.io/board.html"> here </a>.
+1. Download prebuilt bootable image [here] (http://www.pynq.io/board.html)
 <br>
-2. Flash the Micro SD Card using <a href="https://rufus.ie/en/"> Rufus </a> utility. 
+2. Flash the Micro SD Card using [Rufus] (https://rufus.ie/en/) utility. 
 <br>
 3. Setup a USB WiFi adapter (DWA-131) and plug it into the USB-A port on the Pynq-Z2 board.
 <br>
