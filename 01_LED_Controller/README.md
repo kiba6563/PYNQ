@@ -26,7 +26,7 @@ A Python program for controlling on board LEDs and RGB LEDs through push button 
 6. Power on the Pynq-Z2 and verify the boot sequence of LEDs on the board. 
 
 ## Jupyter Notebbok:
-For connecting to Jupyter Notebook, open a web browser and navigate to http://pynq:9090
+For connecting to Jupyter Notebook, open a web browser and navigate to http://pynq:9090/lab
 <br>
 Default password for login is **xilinx**.
 
